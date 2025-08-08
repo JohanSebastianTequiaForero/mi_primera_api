@@ -30,3 +30,15 @@ def info():
 @app.get("/greeting/{Johan}")
 def greet_user(Johan: str):
     return {"greeting": f"¡Hola {Johan}!"}
+
+# Agregar al final de tu main.py existente
+
+@app.get("/my-profile")
+def my_profile():
+    return {
+        "name": "Tu Nombre Aquí",           # Cambiar por tu nombre
+        "bootcamp": "FastAPI",
+        "week": 1,
+        "date": "2025",
+        "likes_fastapi": True              # ¿Te gustó FastAPI?
+    }

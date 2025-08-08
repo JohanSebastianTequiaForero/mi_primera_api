@@ -43,3 +43,25 @@ uvicorn main:app --reload --port 8000
 - Si Git no funciona: verificar `git config user.name` y `git config user.email`
 - Si necesitas cambiar el email: usar el email privado de GitHub desde Settings → Emails
 
+# Mi Primera API FastAPI
+
+## ¿Qué hace?
+
+Una API básica creada en el Bootcamp FastAPI Semana 1.
+
+## ¿Cómo ejecutar?
+
+```bash
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+# Reflexion
+Crear rutas (endpoints) que responden a solicitudes del navegador o de otros sistemas.
+
+Devolver respuestas en formato JSON.
+
+Probar endpoints localmente desde el navegador o desde herramientas como /docs (Swagger UI).
+
+Validar parámetros enviados por el usuario (por ejemplo, con query parameters).
+

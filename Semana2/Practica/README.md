@@ -1,4 +1,4 @@
-Resumen de Prácticas — API con Python y FastAPI
+### Resumen de Prácticas — API con Python y FastAPI
 📌 Práctica 3 — Type Hints Básicos
 
 La inclusión de type hints en el código permite indicar de forma explícita los tipos de datos que reciben y devuelven las funciones. Esto no solo mejora la legibilidad y la comprensión para otros desarrolladores, sino que también facilita que FastAPI genere documentación automática y valide los datos, reduciendo errores y mejorando la mantenibilidad del proyecto.

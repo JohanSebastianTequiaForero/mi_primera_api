@@ -3,9 +3,9 @@
 **👤 Desarrollador**: Johan Tequia
 **📧 Email**: 199398882+JohanSebastianTequiaForero@users.noreply.github.com
 **� Privacidad**: Email configurado según mejores prácticas de GitHub
-**�📅 Fecha de creación**: 2025-08-07 20:01:43
-**📂 Ruta del proyecto**: /c/Users/USUARIO/desarrollo-personal/Johan-Tequia-bootcamp/mi-primera-api-fastapi
-**💻 Equipo de trabajo**: DESKTOP-312ND0Q
+**�📅 Fecha de creación**: 2025-08-03 13:21:23
+**📂 Ruta del proyecto**: /c/Users/hogar/desarrollo-personal/Johan-Tequia-bootcamp/mi-primera-api-fastapi
+**💻 Equipo de trabajo**: DESKTOP-EV0C7BO
 
 ## 🔧 Configuración Local
 
@@ -42,26 +42,4 @@ uvicorn main:app --reload --port 8000
 - Si hay conflictos de puerto: cambiar --port en uvicorn
 - Si Git no funciona: verificar `git config user.name` y `git config user.email`
 - Si necesitas cambiar el email: usar el email privado de GitHub desde Settings → Emails
-
-# Mi Primera API FastAPI
-
-## ¿Qué hace?
-
-Una API básica creada en el Bootcamp FastAPI Semana 1.
-
-## ¿Cómo ejecutar?
-
-```bash
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-# Reflexion
-Crear rutas (endpoints) que responden a solicitudes del navegador o de otros sistemas.
-
-Devolver respuestas en formato JSON.
-
-Probar endpoints localmente desde el navegador o desde herramientas como /docs (Swagger UI).
-
-Validar parámetros enviados por el usuario (por ejemplo, con query parameters).
 

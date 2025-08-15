@@ -10,6 +10,7 @@ env/
 pip-log.txt
 pip-delete-this-directory.txt
 
+
 # Variables de entorno (pueden contener información sensible)
 .env
 .env.local

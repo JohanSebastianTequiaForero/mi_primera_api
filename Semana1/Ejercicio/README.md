@@ -71,9 +71,7 @@ Al final del Bloque 3:
 ---
 
 ## 🚀 Preparación para Semana 2
-
 Con estos ejercicios básicos completados, en la Semana 2 estarás listo para:
-
 - **Python Type Hints** (conceptos que ya usaste sin saberlo)
 - **Pydantic Models** (para datos más estructurados)
 - **Más tipos de endpoints** (POST, PUT, DELETE básicos)
